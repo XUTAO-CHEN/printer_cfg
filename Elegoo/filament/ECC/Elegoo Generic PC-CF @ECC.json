@@ -1,0 +1,31 @@
+{
+    "type": "filament",
+    "name": "Elegoo Generic PC-CF @ECC",
+    "inherits": "Elegoo Generic PC-CF @base",
+    "from": "system",
+    "setting_id": "EPCCFECC",
+    "instantiation": "true",
+    "filament_max_volumetric_speed": [
+      "12"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "280"
+    ],
+    "nozzle_temperature": [
+        "280"
+    ],
+    "pressure_advance": [
+        "0.024"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "filament_start_gcode": [
+      "; filament start gcode"
+    ],
+    "compatible_printers": [
+        "Elegoo Centauri Carbon 0.4 nozzle",
+        "Elegoo Centauri Carbon 0.6 nozzle",
+        "Elegoo Centauri Carbon 0.8 nozzle"
+    ]
+}

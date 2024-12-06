@@ -1036,6 +1036,10 @@
         "sub_path": "filament/BASE/Elegoo Generic PC @base.json"
     },
     {
+        "name": "Elegoo Generic PC-CF @base",
+        "sub_path": "filament/BASE/Elegoo Generic PC-CF @base.json"
+    },
+    {
         "name": "Elegoo Generic ASA @base",
         "sub_path": "filament/BASE/Elegoo Generic ASA @base.json"
     },
@@ -1184,6 +1188,10 @@
         "sub_path": "filament/ECC/Elegoo ASA @ECC.json"
     },
     {
+        "name": "Elegoo Generic PC-CF @ECC",
+        "sub_path": "filament/ECC/Elegoo Generic PC-CF @ECC.json"
+    },
+    {
         "name": "Elegoo PC @ECC",
         "sub_path": "filament/ECC/Elegoo PC @ECC.json"
     },
@@ -1224,6 +1232,10 @@
     {
         "name": "Elegoo PETG PRO @EN4 Series",
         "sub_path": "filament/EN4SERIES/Elegoo PETG PRO @EN4 Series.json"
+    },
+    {
+        "name": "Elegoo PC @EN4 Series",
+        "sub_path": "filament/EN4SERIES/Elegoo PC @EN4 Series.json"
     },
     {
         "name": "Elegoo RAPID PETG @EN4 Series",
